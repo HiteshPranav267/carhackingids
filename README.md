@@ -19,7 +19,7 @@ This project implements a machine learning-based Intrusion Detection System for 
 ### 1. Clone the Repository
 
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/HiteshPranav267/carhackingids.git
 cd Car-Hacking-Dataset
 ```
 
